@@ -1,0 +1,67 @@
+{
+	"portfolios": [
+		{
+			"portfolio_id": "POR001",
+			"portfolio_name": "Growth Portfolio",
+			"owner": "Alex Morgan",
+			"base_currency": "USD",
+			"cash_balance": 25000.00,
+			"restricted_securities": [],
+			"max_position_pct": 0.20,
+			"current_holdings": [
+				{
+					"security_id": "TCS",
+					"quantity": 50,
+					"market_price": 310
+				}
+			]
+		},
+		{
+			"portfolio_id": "POR002",
+			"portfolio_name": "Technology Portfolio",
+			"owner": "Jordan Lee",
+			"base_currency": "USD",
+			"cash_balance": 40000.00,
+			"restricted_securities": [],
+			"max_position_pct": 0.20,
+			"current_holdings": []
+		},
+		{
+			"portfolio_id": "POR003",
+			"portfolio_name": "Balanced Portfolio",
+			"owner": "Taylor Patel",
+			"base_currency": "USD",
+			"cash_balance": 30000.00,
+			"restricted_securities": [],
+			"max_position_pct": 0.20,
+			"current_holdings": [
+				{
+					"security_id": "RELIANCE",
+					"quantity": 30,
+					"market_price": 2400
+				}
+			]
+		},
+		{
+			"portfolio_id": "POR004",
+			"portfolio_name": "Long-Term Portfolio",
+			"owner": "Casey Kim",
+			"base_currency": "USD",
+			"cash_balance": 50000.00,
+			"restricted_securities": [],
+			"max_position_pct": 0.20,
+			"current_holdings": []
+		},
+		{
+			"portfolio_id": "POR005",
+			"portfolio_name": "Starter Portfolio",
+			"owner": "Riley Chen",
+			"base_currency": "USD",
+			"cash_balance": 12000.00,
+			"restricted_securities": [],
+			"max_position_pct": 0.20,
+			"current_holdings": []
+		}
+	]
+}
+
